@@ -1,0 +1,42 @@
+/* Basic Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1e1e1e; /* black background */
+    color: #ffffff; /* white text */
+}
+
+header, section, footer {
+    padding: 20px;
+}
+
+/* Header Styles */
+header {
+    background-color: #3333cc; /* blue header */
+    text-align: center;
+}
+
+/* About Section Styles */
+#about img {
+    width: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+/* Projects Section Styles */
+.project {
+    margin-bottom: 30px;
+}
+
+.project img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #3333cc; /* blue footer */
+    text-align: center;
+}
